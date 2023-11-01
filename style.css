@@ -1,0 +1,19 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  color: white;
+  background-color: #002400;
+}
+canvas {
+  display: block;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+p1 {
+  text-align: center;
+}
